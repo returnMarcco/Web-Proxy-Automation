@@ -2,8 +2,12 @@
 A script to help you get those notorious 3 average viewers :)
 
 *** README **** - In order to have this script functioning for your Twitch channel, you must follow these instructions;  
+
 Instruction List  
+================  
+
 For Windows OS only  
+
 Step 1) Open this script in a text editor (notepad for example). This is the first step  
 Step 2) Replace all instances of "insert your Twitch URL here" with YOUR Twitch channel's URL. DO NOT REMOVE the {ENTER} next to the URL.   
 Format Example: %SendKeys% "https://twitch.tv/newLifePlus{ENTER}"  
