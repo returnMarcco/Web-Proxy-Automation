@@ -5,7 +5,7 @@ A script to help you get those notorious 3 average viewers :)
 
 Instruction List  
 ================ 
-
+Script Preparation:
 * Download the attached script (stream_proxy_automation)
 
 For Windows OS only  
