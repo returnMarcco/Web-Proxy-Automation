@@ -1,5 +1,5 @@
 # TwitchViewAutomation
-A script to help you get those notorious 3 average viewers :)
+A script to help you get those notorious 3 average viewers :)  
 For Windows OS only  
 
 *** README *** - In order to have this script functioning for your Twitch channel, you must follow these instructions;  
