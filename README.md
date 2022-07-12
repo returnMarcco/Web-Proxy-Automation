@@ -22,6 +22,6 @@ Simply run the script file. A CMD window should open. Let it do it's thing. Once
 
 YouTube tutorial @ - Coming Soon -
 
-If this helped you, consider leaving a follow on both of my Twitch (https://twitch.tv/newLifePlus) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
+If this helped you, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
 
 Cheers
