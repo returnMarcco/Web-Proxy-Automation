@@ -2,7 +2,8 @@
 A batch script to help you get those notorious 3 average viewers :)  
 For Windows OS only  
 
-*** README *** - In order to have this script functioning for your Twitch channel, you must follow these instructions;  
+*** README *** - In order to have this script functioning for your Twitch channel, you must follow these instructions;
+YouTube tutorial @ - https://youtu.be/sm-e0aL8X8o
 
 Instruction List  
 ================ 
@@ -20,7 +21,6 @@ To Use - IMPORTANT: START YOUR LIVESTREAM BEFORE RUNNING THIS SCRIPT
 
 Simply run the script file. A CMD window should open. Let it do it's thing. Once the window closes, you should see your view count increase within a short period of time.  
 
-YouTube tutorial @ - Coming Soon -
 
 If this helped you, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
 
