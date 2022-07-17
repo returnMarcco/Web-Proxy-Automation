@@ -1,5 +1,5 @@
 # TwitchViewAutomation
-Disclaimer: This script is for educational and demonstrative purposed only. I am not advocating that you use it against Twitch's TOS.
+Disclaimer: This script is for educational and demonstrative purposes only, and was not developed to be used in the real world.
 
 A batch script to help you get those notorious 3 average viewers :)  
 For Windows OS only  
