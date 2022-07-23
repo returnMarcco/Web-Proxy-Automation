@@ -25,6 +25,6 @@ To Use - IMPORTANT: START YOUR LIVESTREAM BEFORE RUNNING THIS SCRIPT
 Simply run the script file. A CMD window should open. Let it do it's thing. Once the window closes, you should see your view count increase within a short period of time.  
 
 
-If this helped you, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
+If this helped you learn, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
 
 Cheers
