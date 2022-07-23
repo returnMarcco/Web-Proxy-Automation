@@ -3,18 +3,18 @@
 
 @echo off
 Rem Only for Windows OS
-Rem Written By newLifePlus - Give me a follow on both YouTube and Twitch if this helped you :)
+Rem Written by returnMarcco - Give me a follow on both YouTube and Twitch if this helped you :)
 
-REM Twitch - "https://"twitch.tv/newLifePlus" | Youtube (returnMarcco{ENTER}) - "https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg"
+REM Twitch - "https://"twitch.tv/returnMarcco" | Youtube (returnMarcco{ENTER}) - "https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg"
 
-Rem Script Description: Automatically opens 40 Chrome browser tabs and connects to Twitch.tv/makingVelvet via Web-Proxy
+Rem Script Description: Automatically opens a specified number of Chrome browser tabs and connects to Twitch.tv/makingVelvet via Web-Proxy
 Rem Sources; Stackoverflow, https://www.codegrepper.com/code-examples/whatever/Make+a+batch+file+that+opens+site+in+browser+and+enter+login+information
 
 Rem *** README **** - In order to have this script functioning for your Twitch channel, you must follow these instructions;
 REM Instruction List
 REM For Windows OS only
 REM Step 1) If you are reading this, then you have opened the script in a text editor (notepad for example). This is the first step
-REM Step 2) Replace "insert your Twitch URL here" with YOUR Twitch channel's URL. DO NOT REMOVE the {ENTER} next to the URL. Format Example: %SendKeys% "https://twitch.tv/newLifePlus{ENTER}"
+REM Step 2) Replace the Twitch URL below with YOUR Twitch channel's URL. DO NOT REMOVE the {ENTER} next to the URL. Format Example: %SendKeys% "https://twitch.tv/newLifePlus{ENTER}"
 REM Step 3) Save and close the script file
 
 REM To Use - IMPORTANT: START YOUR LIVESTREAM BEFORE RUNNING THIS SCRIPT 
