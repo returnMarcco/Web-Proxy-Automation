@@ -1,4 +1,4 @@
-# TwitchViewAutomation
+# WebProxyAutomation
 Disclaimer: This script is for educational and demonstrative purposes only, and was not developed to be used in the real world.
 
 A batch script to help you get those notorious 3 average viewers :)  
@@ -13,8 +13,8 @@ Instruction List
 Script Preparation:
 * Download the attached script (stream_proxy_automation).
 * Step 1) Open this script in a text editor (notepad for example). This is the first step.  
-* Step 2) Replace the Twitch URL with YOUR Twitch channel's URL. DO NOT REMOVE the {ENTER} next to the URL.   
-Format Example: %SendKeys% "https://twitch.tv/newLifePlus{ENTER}".
+* Step 2) Replace the example URL with any URL you wish to connect to via the web proxy server. DO NOT REMOVE the {ENTER} next to the URL.   
+Format Example: %SendKeys% "https://exampleurl.com/example{ENTER}".
 
 *Note: The script uses Chrome browser by default. If you would like to use this script with another browser, replace all instances of "CHROME" with your browser of choice. You may have to Google the Batch Scripting Language syntax for the particular browser you would like to use.
 
