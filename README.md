@@ -12,7 +12,7 @@ Written By returnMarcco - Give me a follow on both YouTube and Twitch if this he
 
 My Twitch - "https://twitch.tv/returnMarcco" | My Youtube - "https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg"
 
-Script Description: An automation script console application for navigating to a user-specified URL via the 'blockaway' web proxy server for a user-specified number of times. (Windows OS Only)
+Script Description: An automation script console application for navigating to a user-specified URL via the 'Blockaway' web proxy server for a user-specified number of times. (Windows OS Only)
 
 Step 1) Run the script and follow the prompts. It's that simple.
 
