@@ -1,7 +1,7 @@
 @if (@CodeSection == @Batch) @then
 @echo off
 
-REM An automation script console application for navigating to a user-specified URL for a user-specified number of times. (Windows OS Only)
+REM An automation script console application for navigating to a user-specified URL via the 'blockaway' web proxy server for a user-specified number of times. (Windows OS Only)
 
 set SendKeys=CScript //nologo //E:JScript "%~F0"
 
