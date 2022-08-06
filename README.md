@@ -16,7 +16,7 @@ Script Description: An automation script console application for navigating to a
 
 Step 1) Run the script and follow the prompts. It's that simple.
 
-If this helped you learn, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
+If this helped you, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
 
 
 Sources: Stackoverflow, https://www.codegrepper.com/code-examples/whatever/Make+a+batch+file+that+opens+site+in+browser+and+enter+login+information
