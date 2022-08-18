@@ -14,7 +14,7 @@ My Twitch - "https://twitch.tv/returnMarcco" | My Youtube - "https://www.youtube
 
 Script Description: An automation script console application for navigating to a user-specified URL via the 'Blockaway' web proxy server for a user-specified number of times. (Windows OS Only // Chrome Browser Required)
 
-Step 1) Run the script and follow the prompts. It's that simple.
+1. Run the script and follow the prompts. It's that simple.
 
 If this helped you, consider leaving a follow on both of my Twitch (https://twitch.tv/returnMarcco) & YouTube (https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg) channels.  
 
