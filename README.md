@@ -5,7 +5,7 @@ Written by returnMarcco
 
 Description
 ============
-* An automation script console application for navigating to a user-specified URL via the 'Blockaway' web proxy server for a user-specified number of times. (Windows OS Only // Chrome Browser Required)
+* An automation script console application for navigating to a user-specified URL via the 'Blockaway' web proxy server for a user-specified number of times. (Windows OS Only // Chrome Browser Required.)
 
 Instructions
 ================ 
