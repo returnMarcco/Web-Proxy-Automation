@@ -1,11 +1,11 @@
 Written by returnMarcco
 ========================
-Follow me on Twitch: https://twitch.tv/returnMarcco
-Subscribe to my Youtube Channel: https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg
+* Follow me on Twitch: https://twitch.tv/returnMarcco
+* Subscribe to my Youtube Channel: https://www.youtube.com/channel/UC1aPOXPpMAKbPOT0Hw1GbMg
 
 Description
 ============
-An automation script console application for navigating to a user-specified URL via the 'Blockaway' web proxy server for a user-specified number of times. (Windows OS Only // Chrome Browser Required)
+* An automation script console application for navigating to a user-specified URL via the 'Blockaway' web proxy server for a user-specified number of times. (Windows OS Only // Chrome Browser Required)
 
 Instructions
 ================ 
